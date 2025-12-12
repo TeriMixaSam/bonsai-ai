@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bonsai-ai",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "bonsai-db",
+			"database_id": "86b79e63-3f08-40f1-b2ac-2a7319a92418"
+		}
+	]
+}
